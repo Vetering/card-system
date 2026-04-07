@@ -1,6 +1,5 @@
 
 
-让我帮您完善 README.md 文件：
 
 ```markdown:卡密管理系统/card-system_front/README.md
 # 卡密管理系统
